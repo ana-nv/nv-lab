@@ -23,7 +23,7 @@ elif len(sys.argv) > 2:
     sys.exit()
 else:
     if not os.path.exists(sys.argv[1]):
-        print("Directory does not exists")
+        print("Directory does not exist")
         sys.exit()
     else:
         bids_dir = sys.argv[1]
