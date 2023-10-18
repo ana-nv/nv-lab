@@ -1,1 +1,1 @@
-Information about MRI and fMRI, processing and analssis steps. 
+Information about MRI and fMRI, processing and analysis steps. 
