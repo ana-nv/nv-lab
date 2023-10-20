@@ -19,5 +19,8 @@ Common issues:
 
 - files don't follow BIDS naming conventions (more info about filenames [here](https://bids-standard.github.io/bids-starter-kit/folders_and_files/files.html))
 - events.tsv files are missing
-- 
-- ..
+- participants.tsv is missing
+- participants.json file is missing or does not describe all variables from the tsv file
+- datasset_description is missing or there is no name of the dataset or author names in it.
+- readme file is missing or too short
+- ...
