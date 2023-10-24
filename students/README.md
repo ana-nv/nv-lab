@@ -1,4 +1,4 @@
-#Stipends you can apply for
+Stipends you can apply for
 
 # Vor/während der Masterarbeit
 ## NAWI - Leistungsstipendium
