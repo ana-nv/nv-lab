@@ -3,7 +3,18 @@
 October 2023; additional info and further read: https://www.sciencedirect.com/science/article/pii/S016502701630259X?via%3Dihub 
 
 ## _Acquistion of log-files:_
-to be added
+
+### _Physiology logging:_
+
++ Press tab + [-> + Entf to enter admin mode
++ PMU control
++ control-esc
++ run -> cmd
++ in the terminal, type ideacmdtool
++ DON'T use startLogAll, start puls and ECG separately (if both are started simultaneously, recording will terminate after 5 min.)
++ After a while there should be a message with “ok” at the end
++ Data is stored in `C:\ProgramFiles\Siemens\Numaris\ Mars\log\` (there is a shortcut “log” in the Explorer )
++ Stop recording after experiment with stopLogAll, move data to `C:\_Natalia\STUDYNAME`
 
 ## _Required:_ 
 + Json- files of functional data for each run
