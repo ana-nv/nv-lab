@@ -9,7 +9,10 @@ to be added
 + Json- files of functional data for each run
 + Physiology log-files, one for all runs (.resp and .puls files)
 
+
 **Figure 1.**  Puls and resp-file.
+
+![](physio_images/Picture1.jpg)
 
 +	Script: `/storage/nv_shared/PhysIO_excitex/PhysIO_get_regressors.m`
 
@@ -43,8 +46,19 @@ Toolbox-code modified for our scanner model: `/storage/nv_shared/software/PhysIO
   - Regressors can then be added to a GLM.
 
 
-**Figure 2.** Artifacts in raw respiratory signal due to issues during recording with the breathing belt
+
+**Figure 2.** Artifacts in raw respiratory signal due to issues during recording with the breathing belt.
+
+![](physio_images/Picture2.jpg)
+
+
 
 **Figure 3.** Final output (RETROICOR regressors)
 
-**Figure 4.** Steps from raw data to the final regressors. 
+
+
+![](physio_images/Picture3.png)
+
+**Figure 4.** Steps from raw data to the final regressors.
+
+![](physio_images/Picture4.jpg)
