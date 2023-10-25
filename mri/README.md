@@ -24,3 +24,16 @@ Common issues:
 - datasset_description is missing or there is no name of the dataset or author names in it.
 - readme file is missing or too short
 - ...
+
+
+# OSF
+
+Upload your dataset to osf using osfclient
+
+Installation:
+`pip3 install osfclient`
+
+### upload a file in an OSF project
+`osf -p <projectid> -u yourOSFacount@example.com upload local/file.txt remote/path.txt`
+### upload a folder (recursively) in an OSF project
+`osf -p <projectid> -u yourOSFacount@example.com upload local/file.txt remote/path`
