@@ -1,8 +1,13 @@
 # nv-lab
-Repository for nv lab
+Repository for the Visual Neuroscience lab.
+
+PI: Natalia Zaretskaya
+
 # topics
+## [MRI](mri)
+Information on how to organize, preprocess and analyze MRI/fMRI data on the lab server
 ## [MRI lab](mri_lab)
-general MRI-LAB related info
+General MRI-LAB related info
 ## [Physiology](/physiology/)
-information on how to record physiology in MRI lab and create regressors
+Information on how to record physiology in MRI lab and create regressors
 ## [Information for students](/students/)
