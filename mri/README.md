@@ -12,7 +12,7 @@ Brain Imaging Data Structure (more information [here](https://bids-standard.gith
 
 With docker, you can run this line in the terminal:
 
-`docker run -ti --rm -v [path_to_your_toplevel_bids_directory]:/data:ro bids/validator /data`
+`$ docker run -ti --rm -v [path_to_your_toplevel_bids_directory]:/data:ro bids/validator /data`
 
 
 Common issues:
@@ -28,12 +28,18 @@ Common issues:
 
 # OSF
 
-Upload your dataset to osf using osfclient
+Upload your dataset to OSF using *osfclient* (user's guide [here](https://osfclient.readthedocs.io/en/latest/cli-usage.html)).
+This is a useful python-based package to uploading data in bulk to OSF, especially because you cannot upload folders to OSF projects via browser.
 
 Installation:
-`pip3 install osfclient`
+`$ pip3 install osfclient`
 
-### upload a file in an OSF project
-`osf -p <projectid> -u yourOSFacount@example.com upload local/file.txt remote/path.txt`
-### upload a folder (recursively) in an OSF project
-`osf -p <projectid> -u yourOSFacount@example.com upload local/file.txt remote/path`
+### Upload a file to an OSF project
+`$ osf -p <projectid> -u yourOSFacount@example.com upload local/file.txt remote/path.txt`
+### Upload a folder (recursively) to an OSF project
+`$ osf -p <projectid> -u yourOSFacount@example.com upload -r local/folder remote/path`
+
+### Set your OSF acctount password
+Set a password so you don't have to enter it each time you upload data
+
+`$ export OSF_PASSWORD=yourpassword`
