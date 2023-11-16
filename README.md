@@ -4,7 +4,7 @@ Repository for the Visual Neuroscience lab.
 PI: Natalia Zaretskaya
 
 # Topics
-##[Behavioral](./behavioral)
+## [Behavioral](./behavioral)
 Information about behavioral measurements, such as vision acuity test.
 
 ## [MRI](./mri)
