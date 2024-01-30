@@ -14,3 +14,4 @@ General MRI-LAB related info
 ## [Physiology](./physiology/)
 Information on how to record physiology in MRI lab and create regressors
 ## [Information for students](./students/)
+## [Lab meeting] (./labmeeting/)
