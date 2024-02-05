@@ -4,7 +4,7 @@ Journal club reading list (will be updated as I come across new papers that may 
 - Glasser parcellation of the cortex, which everyone is using now: https://www.nature.com/articles/nature18933
 - Multiple comparison correction methods for fMRI (no specific paper yet)
 - HCP processing pipeline and CIFTI format (alternative to fmriprep and state-of-the-art for 7 T preprocessing): https://www.sciencedirect.com/science/article/pii/S1053811913005053?via%3Dihub
-- Resting-state connectivity of subcortical structures (including the claustrum) https://www.jneurosci.org/content/43/39/6609
+- [ x ] Resting-state connectivity of subcortical structures (including the claustrum) https://www.jneurosci.org/content/43/39/6609
 - Neuroquery https://elifesciences.org/articles/53385
 - Neurodesk https://www.nature.com/articles/s41592-023-02145-x
 # Subjective experience
