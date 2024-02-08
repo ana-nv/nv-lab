@@ -7,6 +7,7 @@ Journal club reading list (will be updated as I come across new papers that may 
 - [ x ] Resting-state connectivity of subcortical structures (including the claustrum) https://www.jneurosci.org/content/43/39/6609
 - Neuroquery https://elifesciences.org/articles/53385
 - Neurodesk https://www.nature.com/articles/s41592-023-02145-x
+- White matter activations https://www.pnas.org/doi/10.1073/pnas.2219666120 
 # Subjective experience
 - [ x ] Self et al., 2019: ephys signatures of figure-ground segmentation in macaque V1: https://www.sciencedirect.com/science/article/pii/S0960982219301551
 - Recent findings from Tsao lab: https://www.pnas.org/doi/10.1073/pnas.2221122120 - Janis Hesse is the guy who does binocular rivalry actually
