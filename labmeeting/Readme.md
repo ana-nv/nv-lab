@@ -3,8 +3,8 @@ Journal club reading list (will be updated as I come across new papers that may 
 - Margulies et al., 2016: Hierarchy of areas based on the resting-state data: https://www.pnas.org/doi/10.1073/pnas.1608282113
 - Glasser parcellation of the cortex, which everyone is using now: https://www.nature.com/articles/nature18933
 - Multiple comparison correction methods for fMRI (no specific paper yet)
-- HCP processing pipeline and CIFTI format (alternative to fmriprep and state-of-the-art for 7 T preprocessing): https://www.sciencedirect.com/science/article/pii/S1053811913005053?via%3Dihub
-- [ x ] Resting-state connectivity of subcortical structures (including the claustrum) https://www.jneurosci.org/content/43/39/6609
+- [ x ] HCP processing pipeline and CIFTI format (alternative to fmriprep and state-of-the-art for 7 T preprocessing): https://www.sciencedirect.com/science/article/pii/S1053811913005053?via%3Dihub
+- Resting-state connectivity of subcortical structures (including the claustrum) https://www.jneurosci.org/content/43/39/6609
 - Neuroquery https://elifesciences.org/articles/53385
 - Neurodesk https://www.nature.com/articles/s41592-023-02145-x
 - White matter activations https://www.pnas.org/doi/10.1073/pnas.2219666120 
@@ -18,7 +18,7 @@ Journal club reading list (will be updated as I come across new papers that may 
 - [ x ] Statistical power (small sample sizes): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267527/
 - Statistical power: https://elifesciences.org/articles/62461
 - Experimental methods: https://www.frontiersin.org/articles/10.3389/fnhum.2018.00421/full
-- Scientific writing: https://stevenpinker.com/files/pinker/files/descioli_pinker_2021_piled_modifiers.pdf
+- [ x ] Scientific writing: https://stevenpinker.com/files/pinker/files/descioli_pinker_2021_piled_modifiers.pdf
 - Randomization techniques for statistical inference: permutation, bootstrapping, Monte Carlo simulations (no specific paper yet)
 # AI
 - https://www.sciencedirect.com/science/article/pii/S2589004222011853?via%3Dihub
