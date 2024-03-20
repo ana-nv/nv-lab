@@ -11,6 +11,6 @@ https://universitaetsbund.uni-graz.at/de/gub-foerderungen/
 ## Initiative Gehirnforschung Steiermark
 Forschungspreis Kategorie Masterarbeit/Diplom
 https://gehirnforschung.at/nachwuchsforderung/forschungspreis/
-## Gesselschaft für Neuropsychologie Österreich
+## Gesellschaft für Neuropsychologie Österreich
 (Ausschreibung x1 im Jahr per Email)
 https://gnpoe.at/
