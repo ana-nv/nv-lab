@@ -1,7 +1,9 @@
 # TODO list and guidelines for people who are leaving
+- [ ] Make sure that all subject's private data that is irrelevant for research (e.g. bank account information for reimbursement) is deleted
+- [ ] Make sure that all incidental findings have been clarified, and once this is the case, delete subjects' contact information if you kept it
 - [ ] Return your key to Chrissy once you don't need a desk
-- [ ] In the top level of your directory on storage, create a text/markdown named file named "projects" containing server paths (/storage/,   J:\, or external storage in the case of Marilena) as follows
-- [ ] it would be nice if you could put a contact email for after your uni-graz email address expires (optional, of course) at the top
+- [ ] At the top level of your directory on storage, create a text/markdown named file named "projects" containing server paths (/storage/,   J:\, or external storage in the case of Marilena) as follows
+- [ ] It would be nice if you could put a contact email for after your uni-graz email address expires (optional, of course) at the top
 1. project nickname
 2. Final version (from the MRI/behavioral lab) of the stimulus script
 3. Raw data (whichever applies)
@@ -16,6 +18,7 @@
 7. Group results
 8. Latest version of the submitted manuscript with rebuttal, if applicable
 9. Posters and submitted conference abstracts related to the study
+10. Location of the consent forms (either electronic or paper)
 
 # Example: 
 ``/storage/natalia/projects.md``
@@ -33,4 +36,5 @@
 6. Group analysis scripts ``/storage/natalia/projects/hexcite/bids/code/analyze_hexcite_final.m``
 7. Group results: ``/storage/natalia/projects/hexcite/group_lowres/``
 8. Latest version of the submitted manuscript with rebuttal: ``/storage/natalia/projects/hexcite/manuscript/hexcite_CerCor_R1``
-9. Posters and submitted conference abstracts related to the study ``/storage/natalia/projects/hexcite/presentations`` 
+9. Posters and submitted conference abstracts related to the study ``/storage/natalia/projects/hexcite/presentations``
+10. Paper - Corner office, rightmost drawer
