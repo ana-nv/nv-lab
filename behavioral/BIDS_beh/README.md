@@ -24,6 +24,8 @@ The folder structure based on BIDS:
 ```
 root_dir
   └─ ‘transriv’
+        ├─ participants.tsv
+        ├─ participants.json
         ├─ sourcedata
         │     └─ sub-S001
         │         └─ ses-Rivalry
