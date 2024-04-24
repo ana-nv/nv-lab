@@ -13,17 +13,18 @@ create_events_tsv_json_full.m
 createBIDS_participants_tsv.m    
 createBIDS_dataset_description_json.m
 
-See the example for transriv project:
+### Pipeline for transriv project as an example
 - Add ‘transriv-bids’ to matlab path
 - Go to the root_dir or use the full path of root_dir as input to the functions
 - Preprocess data from a subject: 
 `createBIDS_beh_after_preprocessing(root_dir, ‘transriv’, ‘S001’, ‘Rivalry’, ‘GG’)`
-- Create dataset files by running `transriv_finalizeBIDS.m`
+- Create dataset files by running `transriv_finalizeBIDS.m` (when data collection is finished)
 
 The folder structure based on BIDS:
 ```
 root_dir
   └─ ‘transriv’
+        ├─ participants.xlsx
         ├─ participants.tsv
         ├─ participants.json
         ├─ sourcedata
