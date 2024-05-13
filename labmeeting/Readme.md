@@ -12,7 +12,7 @@ Journal club reading list (will be updated as I come across new papers that may 
 - [ x ] Self et al., 2019: ephys signatures of figure-ground segmentation in macaque V1: https://www.sciencedirect.com/science/article/pii/S0960982219301551
 - Recent findings from Tsao lab: https://www.pnas.org/doi/10.1073/pnas.2221122120
 - DMN and awareness: https://www.nature.com/articles/s41467-022-34410-6
-- Perceptography: https://www.biorxiv.org/content/10.1101/2022.10.24.513337v2
+- [ x ] Perceptography: https://www.biorxiv.org/content/10.1101/2022.10.24.513337v2
 - [ x ] Perceptography in humans using visual illusions: https://www.science.org/doi/full/10.1126/sciadv.adj3906
 # General methods
 - [ x ] Statistical power (small sample sizes): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267527/
@@ -21,4 +21,4 @@ Journal club reading list (will be updated as I come across new papers that may 
 - [ x ] Scientific writing: https://stevenpinker.com/files/pinker/files/descioli_pinker_2021_piled_modifiers.pdf
 - Randomization techniques for statistical inference: permutation, bootstrapping, Monte Carlo simulations (no specific paper yet)
 # AI
-- https://www.sciencedirect.com/science/article/pii/S2589004222011853?via%3Dihub
+- [ x ] https://www.sciencedirect.com/science/article/pii/S2589004222011853?via%3Dihub
