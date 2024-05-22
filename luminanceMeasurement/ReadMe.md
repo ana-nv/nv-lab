@@ -1,0 +1,2 @@
+- run `saveReadings.m` 
+- then, `[displayBaseline, displayRange, displayGamma, maxLevel] = createGammaFromSavedReadings(labName, screenName, 'plot', 0)`
