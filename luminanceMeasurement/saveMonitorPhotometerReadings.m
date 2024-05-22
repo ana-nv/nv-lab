@@ -46,7 +46,7 @@ global inputV;
        
     psychlasterror('reset');    
     try
-        if nargin < 2 || isempty(screenid)
+        if nargin < 3 || isempty(screenid)
             % Open black window on default screen:
             screenid = max(Screen('Screens'));
         end
