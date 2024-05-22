@@ -10,7 +10,7 @@ screenName    = 'VPixx';
 % parameters
 numMeasures = 17;
 colorIDs    = {'R', 'G', 'B', 'A'};
-measured    = 1; % did you already measured luminance?
+measured    = 0; % did you already measured luminance?
 % ----------------------------------------------------------------------- %
 % readings
 allLuminanceReadings = zeros(length(colorIDs), numMeasures);
